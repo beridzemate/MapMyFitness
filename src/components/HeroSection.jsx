@@ -14,7 +14,7 @@ const HeroSection = () => {
         <button className="bg-yellow-500 mt-6 px-8 py-3 rounded text-lg">Sign Up</button>
         <div className="flex space-x-4 mt-6">
           <img src="/src/appstore.png" alt="App Store" className="w-32" />
-          <img src="/src/googleplay.png" alt="Google Play" className="w-32" />
+          <img src="/src/assests/googleplay.png" alt="Google Play" className="w-32" />
         </div>
       </div>
     </section>
